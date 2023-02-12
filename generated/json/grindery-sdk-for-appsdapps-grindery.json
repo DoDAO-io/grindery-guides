@@ -1,0 +1,69 @@
+{
+  "categories": [],
+  "content": "Grindery SDK for apps/dApps development",
+  "created": "2023-02-12T09:03:38.074Z",
+  "guideIntegrations": {
+    "discordRoleIds": []
+  },
+  "guideType": "onboarding",
+  "key": "grindery-sdk-for-appsdapps-grindery",
+  "name": "Grindery SDK for apps/dApps",
+  "publishStatus": "Live",
+  "showIncorrectOnCompletion": true,
+  "steps": [
+    {
+      "content": "\nIntroduction Comments \n        ",
+      "name": "Introduction",
+      "stepItems": [],
+      "uuid": "524134c3-cdb2-408a-b45d-964a483f3d94"
+    },
+    {
+      "content": "",
+      "name": "Introduction Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "9bf1f992"
+          ],
+          "choices": [
+            {
+              "content": "Grindery empower you to connect thousands of Web2 apps with Web3 dApps/protocols.",
+              "key": "9bf1f992"
+            },
+            {
+              "content": "Grindery provides zero cost custodian wallet",
+              "key": "0fbd783b"
+            },
+            {
+              "content": "Grindery is a CMS",
+              "key": "8790f3f5"
+            },
+            {
+              "content": "Grindery makes the transactions free on Ethereum",
+              "key": "12bd299e"
+            }
+          ],
+          "content": "Which of these is true for Grindery?",
+          "type": "SingleChoice",
+          "uuid": "5eaf276e-d047-4019-bf07-e032374b03a0"
+        }
+      ],
+      "uuid": "a064328e-5d82-4274-8520-73670ed608ef"
+    },
+    {
+      "content": "",
+      "name": "Your Info",
+      "stepItems": [
+        {
+          "label": "Nickname",
+          "required": true,
+          "type": "PublicShortInput",
+          "uuid": "3ccff9dd-0b0a-481c-afab-f73b4d842291"
+        }
+      ],
+      "uuid": "3d60faef-8bb1-4be5-a9e2-b8146d4bcf2f"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/grindery-eth-1/Guide/Grindery_SDK_for_apps_dApps/guide_-%20sdk%20for%20apps_dapps%20development.png",
+  "uuid": "b56eda7a-82d9-4ab9-817b-c52c27a6dece"
+}
