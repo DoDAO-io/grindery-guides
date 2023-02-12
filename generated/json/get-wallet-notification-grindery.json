@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Get wallet deposit notification - Ping",
-  "created": "2023-02-12T09:20:45.563Z",
+  "created": "2023-02-12T09:20:55.961Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -14,14 +14,7 @@
     {
       "content": "\n# Coming Soon        ",
       "name": "Introduction",
-      "stepItems": [
-        {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "027b9c60-0ed8-4374-9e17-7d1d5b4bd71d"
-        }
-      ],
+      "stepItems": [],
       "uuid": "b36618fa-2df3-4e71-8c39-8b239c747681"
     },
     {
@@ -72,5 +65,5 @@
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/grindery-eth-1/Guide/_Get_wallet_notification/guide_-%20get%20pinged.png",
-  "uuid": "3c59d4a6-bcc5-4db4-8c07-c31330e69097"
+  "uuid": "get-wallet-notification-grindery"
 }
