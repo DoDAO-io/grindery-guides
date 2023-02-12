@@ -1,0 +1,76 @@
+{
+  "categories": [],
+  "content": "How to secure your crypto and protect yourself from scams",
+  "created": "2023-02-12T09:16:08.205Z",
+  "guideIntegrations": {
+    "discordRoleIds": []
+  },
+  "guideType": "onboarding",
+  "key": "secure-your-crypto-grindery",
+  "name": "Secure your crypto ",
+  "publishStatus": "Live",
+  "showIncorrectOnCompletion": true,
+  "steps": [
+    {
+      "content": "\n# Coming Soon        ",
+      "name": "Introduction",
+      "stepItems": [
+        {
+          "label": "Full Name",
+          "required": false,
+          "type": "PublicShortInput",
+          "uuid": "4a18f972-7ab4-4b6f-892a-3e33ee68e105"
+        }
+      ],
+      "uuid": "83ed662c-7f3f-49af-bbc0-7bc795476bc6"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "6f437384"
+          ],
+          "choices": [
+            {
+              "content": "Grindery empower you to connect thousands of Web2 apps with Web3 dApps/protocols.",
+              "key": "6f437384"
+            },
+            {
+              "content": "Grindery provides zero cost custodian wallet",
+              "key": "fac92d5b"
+            },
+            {
+              "content": "Grindery is a CMS",
+              "key": "035c8a96"
+            },
+            {
+              "content": "Grindery makes the transactions free on Ethereum",
+              "key": "49839983"
+            }
+          ],
+          "content": "Which of these is true for Grindery?",
+          "type": "SingleChoice",
+          "uuid": "df8e5795-ac0b-4b27-985c-cd7e385e96d4"
+        }
+      ],
+      "uuid": "b9a94dda-22bf-4ca8-a99a-aae385893d6b"
+    },
+    {
+      "content": "",
+      "name": "Your Info",
+      "stepItems": [
+        {
+          "label": "Nickname",
+          "required": true,
+          "type": "PublicShortInput",
+          "uuid": "c5caa97e-20be-46c1-8e35-094e66d5f615"
+        }
+      ],
+      "uuid": "bcf91038-08d4-4b85-a9c8-a1d5be55051f"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/grindery-eth-1/Guide/Secure_your_crypto_/guide_-%20how%20to%20secure%20your%20crypto.png",
+  "uuid": "54e019e7-b02b-4329-b1af-ce836a8d4dfa"
+}
