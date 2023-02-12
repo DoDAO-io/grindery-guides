@@ -1,0 +1,48 @@
+categories: []
+content: Grindery SDK for drivers and CDS development
+created: '2023-02-12T09:10:51.856Z'
+guideIntegrations:
+  discordRoleIds: []
+guideType: onboarding
+key: grindery-sdk-for-drivers-grindery
+name: Grindery SDK for drivers
+publishStatus: Live
+showIncorrectOnCompletion: true
+steps:
+  - content: |-
+
+      # Coming Soon        
+    name: Introduction
+    stepItems: []
+    uuid: 9c0cab78-27ed-4a90-9263-22ee561422fb
+  - content: ''
+    name: Introduction Evaluation
+    stepItems:
+      - answerKeys:
+          - 040a82c3
+        choices:
+          - content: >-
+              Grindery empower you to connect thousands of Web2 apps with Web3
+              dApps/protocols.
+            key: 040a82c3
+          - content: Grindery provides zero cost custodian wallet
+            key: 61b2004f
+          - content: Grindery is a CMS
+            key: c57b2d79
+          - content: Grindery makes the transactions free on Ethereum
+            key: d8901941
+        content: Which of these is true for Grindery?
+        type: SingleChoice
+        uuid: 079619e7-80c6-4908-9902-0c8a60af444f
+    uuid: 4d268ca0-29df-487c-b107-955c8510461f
+  - content: ''
+    name: Your Info
+    stepItems:
+      - label: Nickname
+        required: true
+        type: PublicShortInput
+        uuid: 496bc848-f70d-44f8-aa06-879e2d82e37a
+    uuid: 763ed4df-be45-48a1-8a3e-ed95fdaf191f
+thumbnail: >-
+  https://d31h13bdjwgzxs.cloudfront.net/academy/grindery-eth-1/Guide/Grindery_SDK_for_drivers/guide_-%20sdk%20for%20drivers%20and%20cds.png
+uuid: 201eb1f7-97b8-4382-93a9-07aad36cb52d
