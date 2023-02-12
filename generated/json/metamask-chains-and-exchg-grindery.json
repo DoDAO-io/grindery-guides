@@ -1,0 +1,69 @@
+{
+  "categories": [],
+  "content": "Metamask, Chains and Exchanges",
+  "created": "2023-02-12T09:18:41.641Z",
+  "guideIntegrations": {
+    "discordRoleIds": []
+  },
+  "guideType": "onboarding",
+  "key": "metamask-chains-and-exchg-grindery",
+  "name": "Metamask, Chains and Exchg.",
+  "publishStatus": "Live",
+  "showIncorrectOnCompletion": true,
+  "steps": [
+    {
+      "content": "\n# Coming Soon        ",
+      "name": "Introduction",
+      "stepItems": [],
+      "uuid": "30f10016-ec2d-4e67-ac4b-2da7141dc09d"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "ec6bdc89"
+          ],
+          "choices": [
+            {
+              "content": "Grindery empower you to connect thousands of Web2 apps with Web3 dApps/protocols.",
+              "key": "ec6bdc89"
+            },
+            {
+              "content": "Grindery provides zero cost custodian wallet",
+              "key": "d03a1a68"
+            },
+            {
+              "content": "Grindery is a CMS",
+              "key": "5df2cdd5"
+            },
+            {
+              "content": "Grindery makes the transactions free on Ethereum",
+              "key": "4338bc72"
+            }
+          ],
+          "content": "Which of these is true for Grindery?",
+          "type": "SingleChoice",
+          "uuid": "51a06fd1-107d-4550-8a6a-952add1da883"
+        }
+      ],
+      "uuid": "91c066b1-9733-4592-beb6-4ba8dfd34d5c"
+    },
+    {
+      "content": "",
+      "name": "Your Info",
+      "stepItems": [
+        {
+          "label": "Nickname",
+          "required": true,
+          "type": "PublicShortInput",
+          "uuid": "98494d40-c04a-461a-876c-5ea25bab64c8"
+        }
+      ],
+      "uuid": "b482e56d-fb94-477f-aa7b-146552c08ec9"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/grindery-eth-1/Guide/Metamask__Chains_and_Exchg_/guide_-%20metamask%2C%20chains%2C%20_%20exchanges.png",
+  "uuid": "ffead054-cf13-438e-8d8a-db63017b2470"
+}
