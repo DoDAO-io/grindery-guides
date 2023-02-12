@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "How to secure your crypto and protect yourself from scams",
-  "created": "2023-02-12T09:16:08.205Z",
+  "created": "2023-02-12T09:16:17.443Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -14,14 +14,7 @@
     {
       "content": "\n# Coming Soon        ",
       "name": "Introduction",
-      "stepItems": [
-        {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "4a18f972-7ab4-4b6f-892a-3e33ee68e105"
-        }
-      ],
+      "stepItems": [],
       "uuid": "83ed662c-7f3f-49af-bbc0-7bc795476bc6"
     },
     {
@@ -72,5 +65,5 @@
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/grindery-eth-1/Guide/Secure_your_crypto_/guide_-%20how%20to%20secure%20your%20crypto.png",
-  "uuid": "54e019e7-b02b-4329-b1af-ce836a8d4dfa"
+  "uuid": "secure-your-crypto-grindery"
 }
