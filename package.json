@@ -1,0 +1,20 @@
+{
+  "name": "grindery-guides",
+  "version": "1.0.0",
+  "description": "Guides explaining Bio XYZ",
+  "scripts": {
+    "test": "dodao-guides-processor gen-all src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoDAO-io/grindery-guides.git"
+  },
+  "author": "robin",
+  "bugs": {
+    "url": "https://github.com/DoDAO-io/grindery-guides/issues"
+  },
+  "homepage": "https://github.com/DoDAO-io/grindery-guides#readme",
+  "dependencies": {
+    "dodao-guides-processor": "0.1.10"
+  }
+}
