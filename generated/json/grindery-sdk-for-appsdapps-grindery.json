@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Grindery SDK for apps/dApps development",
-  "created": "2023-02-12T09:03:38.074Z",
+  "created": "2023-02-12T09:03:57.660Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -12,7 +12,7 @@
   "showIncorrectOnCompletion": true,
   "steps": [
     {
-      "content": "\nIntroduction Comments \n        ",
+      "content": "\n# Coming Soon        ",
       "name": "Introduction",
       "stepItems": [],
       "uuid": "524134c3-cdb2-408a-b45d-964a483f3d94"
@@ -65,5 +65,5 @@
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/grindery-eth-1/Guide/Grindery_SDK_for_apps_dApps/guide_-%20sdk%20for%20apps_dapps%20development.png",
-  "uuid": "b56eda7a-82d9-4ab9-817b-c52c27a6dece"
+  "uuid": "grindery-sdk-for-appsdapps-grindery"
 }
