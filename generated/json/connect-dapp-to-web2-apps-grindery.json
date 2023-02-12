@@ -1,0 +1,69 @@
+{
+  "categories": [],
+  "content": "Connect your dApp to Web2 apps",
+  "created": "2023-02-12T09:13:36.877Z",
+  "guideIntegrations": {
+    "discordRoleIds": []
+  },
+  "guideType": "onboarding",
+  "key": "connect-dapp-to-web2-apps-grindery",
+  "name": "Connect dApp to Web2 apps",
+  "publishStatus": "Live",
+  "showIncorrectOnCompletion": true,
+  "steps": [
+    {
+      "content": "\n# Coming Soon        ",
+      "name": "Introduction",
+      "stepItems": [],
+      "uuid": "f4135cf9-5409-44b8-963c-4218202d68bc"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "1aed44c6"
+          ],
+          "choices": [
+            {
+              "content": "Grindery empower you to connect thousands of Web2 apps with Web3 dApps/protocols.",
+              "key": "1aed44c6"
+            },
+            {
+              "content": "Grindery provides zero cost custodian wallet",
+              "key": "a645a5be"
+            },
+            {
+              "content": "Grindery is a CMS",
+              "key": "a07a92bd"
+            },
+            {
+              "content": "Grindery makes the transactions free on Ethereum",
+              "key": "584be441"
+            }
+          ],
+          "content": "Which of these is true for Grindery?",
+          "type": "SingleChoice",
+          "uuid": "19608802-cc8d-46c7-a6df-73e3d28f0acb"
+        }
+      ],
+      "uuid": "261d89f9-2a9d-4fbf-97d3-1c7a76234a91"
+    },
+    {
+      "content": "",
+      "name": "Your Info",
+      "stepItems": [
+        {
+          "label": "Nickname",
+          "required": true,
+          "type": "PublicShortInput",
+          "uuid": "4baa205b-0545-4595-9ef0-34bd9ec41706"
+        }
+      ],
+      "uuid": "d91cccf0-a681-4a27-8943-e5732a692dee"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/grindery-eth-1/Guide/Connect_dApp_to_Web2_apps/guide_-%20connect%20your%20dapps%20to%20web2%20apps.png",
+  "uuid": "657e6502-5fc9-4c35-bd79-135a977b14b3"
+}
