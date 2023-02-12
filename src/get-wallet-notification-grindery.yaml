@@ -1,0 +1,52 @@
+categories: []
+content: Get wallet deposit notification - Ping
+created: '2023-02-12T09:20:45.563Z'
+guideIntegrations:
+  discordRoleIds: []
+guideType: onboarding
+key: get-wallet-notification-grindery
+name: ' Get wallet notification'
+publishStatus: Live
+showIncorrectOnCompletion: true
+steps:
+  - content: |-
+
+      # Coming Soon        
+    name: Introduction
+    stepItems:
+      - label: Full Name
+        required: false
+        type: PublicShortInput
+        uuid: 027b9c60-0ed8-4374-9e17-7d1d5b4bd71d
+    uuid: b36618fa-2df3-4e71-8c39-8b239c747681
+  - content: ''
+    name: Introduction Evaluation
+    stepItems:
+      - answerKeys:
+          - 26932c52
+        choices:
+          - content: >-
+              Grindery empower you to connect thousands of Web2 apps with Web3
+              dApps/protocols.
+            key: 26932c52
+          - content: Grindery provides zero cost custodian wallet
+            key: ea2542ef
+          - content: Grindery is a CMS
+            key: '69364441'
+          - content: Grindery makes the transactions free on Ethereum
+            key: fbc93ec5
+        content: Which of these is true for Grindery?
+        type: SingleChoice
+        uuid: 5c0e6ffb-99fc-4ce2-af13-76be41c84875
+    uuid: ceb37313-f1ff-4832-a382-37a2147fba91
+  - content: ''
+    name: Your Info
+    stepItems:
+      - label: Nickname
+        required: true
+        type: PublicShortInput
+        uuid: 53fc43c4-769c-4465-9570-66f60c9b5883
+    uuid: 33bbc160-5fb0-4b98-b266-e3ad2f9c226d
+thumbnail: >-
+  https://d31h13bdjwgzxs.cloudfront.net/academy/grindery-eth-1/Guide/_Get_wallet_notification/guide_-%20get%20pinged.png
+uuid: 3c59d4a6-bcc5-4db4-8c07-c31330e69097
