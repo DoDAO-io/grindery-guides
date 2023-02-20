@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Grindery SDK for apps/dApps development",
-  "created": "2023-02-12T09:03:57.660Z",
+  "created": "2023-02-20T23:45:00.103Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -12,7 +12,7 @@
   "showIncorrectOnCompletion": true,
   "steps": [
     {
-      "content": "\n# Coming Soon        ",
+      "content": "The Grindery SDK for apps and dApps contains a set of tools that can help you get started with integrating your apps and dApps with Grindery quickly. You will be able to duplicate and reuse our high-quality code in multiple contexts. These tools include the Grindery Nexus API client, Grindery UI React components, and Nexus React hook. In addition, Ping by Grindery is provided as a use case. It is important to point out that all codes are open source, and we welcome contributions and bug reports from you and the entire community.",
       "name": "Introduction",
       "stepItems": [],
       "uuid": "524134c3-cdb2-408a-b45d-964a483f3d94"
