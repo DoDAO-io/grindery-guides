@@ -1,6 +1,6 @@
 categories: []
 content: Grindery SDK for apps/dApps development
-created: '2023-02-20T23:45:00.103Z'
+created: '2023-02-21T09:27:42.201Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -21,8 +21,23 @@ steps:
     name: Introduction
     stepItems: []
     uuid: 524134c3-cdb2-408a-b45d-964a483f3d94
-  - content: ''
-    name: Introduction Evaluation
+  - content: >
+      Grindery Nexus API client is the JS wrapper for Nexus engine API. To use
+      the Nexus API client, take the following steps:
+
+
+      Install library
+
+      `yarn add grindery-nexus-client`
+
+      OR
+
+      ```JavaScript
+
+      npm install grindery-nexus-client
+
+      ```
+    name: Grindery Nexus API Client
     stepItems:
       - answerKeys:
           - 9bf1f992
