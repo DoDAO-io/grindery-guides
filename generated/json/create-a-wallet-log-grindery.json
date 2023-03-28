@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Create an automated wallet transaction log",
-  "created": "2023-03-28T15:52:54.907Z",
+  "created": "2023-03-28T15:53:24.542Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -13,7 +13,7 @@
   "steps": [
     {
       "content": "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/10061105/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div> \n        ",
-      "name": "Watch the eight lecture videos",
+      "name": "Watch all eight lecture videos",
       "stepItems": [
         {
           "label": "Gindery Academy",
