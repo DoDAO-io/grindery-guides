@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Automatically track your wallet transactions",
-  "created": "2023-03-28T16:25:39.581Z",
+  "created": "2023-03-28T16:26:35.305Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -30,7 +30,7 @@
       "uuid": "abf39d32-d7b7-4d44-a836-4450f080da2b"
     },
     {
-      "content": "<div style=\"padding:55.78% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/786580378?h=03e773f184&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"Detect a native token  (6 mins)\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n\n\n\n\nLearn how to detect a deposit of a native token on a single chain.\na) Set up a Trigger - Grindery Web3 Gateway > Wallet (EOA) on EVM Chains\nb)  Create an Action - Google Sheets\n\nWatch the next video: www.bit.ly/wallet_5\nWatch the previous video: www.bit.ly/wallet_3\nSee how to add date to your wallet log: https://bit.ly/add_date\nCopy the help doc and template: www.bit.ly/wallet_log_template\nGet into Zapier: https://bit.ly/Grindery_et_Zapier\nGet support on Discord: https://discord.gg/vueMMKeC9g\nVisit our website: https://www.grindery.io/",
+      "content": "<div style=\"padding:55.78% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/786580378?h=03e773f184&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"Detect a native token  (6 mins)\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n\na\n\n\nLearn how to detect a deposit of a native token on a single chain.\na) Set up a Trigger - Grindery Web3 Gateway > Wallet (EOA) on EVM Chains\nb)  Create an Action - Google Sheets\n\nWatch the next video: www.bit.ly/wallet_5\nWatch the previous video: www.bit.ly/wallet_3\nSee how to add date to your wallet log: https://bit.ly/add_date\nCopy the help doc and template: www.bit.ly/wallet_log_template\nGet into Zapier: https://bit.ly/Grindery_et_Zapier\nGet support on Discord: https://discord.gg/vueMMKeC9g\nVisit our website: https://www.grindery.io/",
       "name": "Detect a native token",
       "stepItems": [],
       "uuid": "f86bf342-4fb1-44ff-8587-87c945d5960e"

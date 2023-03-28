@@ -1,6 +1,6 @@
 categories: []
 content: Automatically track your wallet transactions
-created: '2023-03-28T16:25:39.581Z'
+created: '2023-03-28T16:26:35.305Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: course
@@ -88,6 +88,7 @@ steps:
       src="https://player.vimeo.com/api/player.js"></script>
 
 
+      a
 
 
 
