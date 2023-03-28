@@ -1,6 +1,6 @@
 categories: []
 content: Create an automated wallet transaction log
-created: '2023-03-28T16:04:01.584Z'
+created: '2023-03-28T16:11:04.193Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: course
@@ -22,11 +22,7 @@ steps:
       about us. To go back to the course page, click here:
       https://www.grindery.io/wallet-course
     name: Housekeeping
-    stepItems:
-      - label: Gindery Academy
-        required: false
-        type: PublicShortInput
-        uuid: 4a0046f7-a5ad-49b4-bdb9-149794796c34
+    stepItems: []
     uuid: 20bb0b58-89e6-4c0d-8ad4-ce6b7e33e248
   - content: >-
       <div style="padding:56.25% 0 0 0;position:relative;"><iframe
@@ -81,6 +77,143 @@ steps:
     name: Detect a native token (6 mins)
     stepItems: []
     uuid: f86bf342-4fb1-44ff-8587-87c945d5960e
+  - content: >-
+      <div style="padding:55.78% 0 0 0;position:relative;"><iframe
+      src="https://player.vimeo.com/video/786580362?h=bd1557e302&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+      frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+      allowfullscreen
+      style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Make
+      token amount readable (4 mins)"></iframe></div><script
+      src="https://player.vimeo.com/api/player.js"></script>
+
+
+      Learn how to convert a deposit amount (in WEI) to your specific token
+      currency.
+
+      a) Add an action: 'Formatter by Zapier' to do the conversion (an extension
+      of Part 1).
+
+      Note: You can get the decimals for conversion on Google
+
+
+      Watch the next video: www.bit.ly/wallet_6
+
+      Watch the previous video: www.bit.ly/wallet_4
+
+      Copy the help doc and template: www.bit.ly/wallet_log_template
+
+      Get into Zapier: https://bit.ly/Grindery_et_Zapier
+
+      Get support on Discord: https://discord.gg/vueMMKeC9g
+
+      Visit our website: https://www.grindery.io/
+    name: Make token amount readable
+    stepItems: []
+    uuid: 92e62bcf-a55f-4088-b05a-08dfd51b539e
+  - content: >-
+      <div style="padding:55.78% 0 0 0;position:relative;"><iframe
+      src="https://player.vimeo.com/video/786580341?h=d52e78c58e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+      frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+      allowfullscreen
+      style="position:absolute;top:0;left:0;width:100%;height:100%;"
+      title="Extend to any EVM chain (7 mins)"></iframe></div><script
+      src="https://player.vimeo.com/api/player.js"></script>
+
+
+      Learn how to detect the deposit of a native token on any of the supported
+      chains.
+
+      a) Set up a Trigger - Grindery Web3 Gateway > Wallet (EOA) on EVM Chains
+      (select All Supported Chain).
+
+      b) Create an Action - Google Sheets
+
+      c) Add another 'Google Sheets' Action between (a) & (b) to get Token
+      Symbol and Chain Name from Sheets.
+
+      d) Add an Action 'Formatter by Zapier' between (c) & (b) to do the
+      conversion.
+
+
+      Watch the next video: www.bit.ly/wallet_7
+
+      Watch the previous video: www.bit.ly/wallet_5
+
+      Copy the help doc and template: www.bit.ly/wallet_log_template
+
+      Get into Zapier: https://bit.ly/Grindery_et_Zapier
+
+      Get support on Discord: https://discord.gg/vueMMKeC9g
+
+      Visit our website: https://www.grindery.io/
+    name: Extend to any EVM Chain (7 mins)
+    stepItems: []
+    uuid: d497a6ef-ba58-4c8d-b944-be0fa89810aa
+  - content: >-
+      <div style="padding:55.78% 0 0 0;position:relative;"><iframe
+      src="https://player.vimeo.com/video/786580314?h=d32156d716&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+      frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+      allowfullscreen
+      style="position:absolute;top:0;left:0;width:100%;height:100%;"
+      title="Detect any ERC-20 token (9 mins)"></iframe></div><script
+      src="https://player.vimeo.com/api/player.js"></script>
+
+
+      Learn how to detect a transfer of an ERC-20 token on any of the supported
+      chains.
+
+      a) Set up a Trigger - Grindery Web3 Gateway - Tokens on EVM Chains
+
+      b) Create an Action - Google Sheets
+
+      c) Add an Action between (a) & (b) - Grindery Web3 Gateway > Tokens on EVM
+      Chains > Token Information
+
+      d) Add another 'Google Sheets' Action between (c) & (b) to get the Chain
+      Name from Sheets
+
+      e) Add an Action 'Formatter by Zapier' between (d) & (b) to convert the
+      amount from WEI to token currency.
+
+
+      Watch the next video: www.bit.ly/wallet_8
+
+      Watch the previous video: www.bit.ly/wallet_6
+
+      Get support on Discord: discord.gg/vueMMKeC9g
+
+      Visit our website: https://www.grindery.io/
+    name: Detect any ERC-20 token (9 mins)
+    stepItems: []
+    uuid: 49cada83-939c-4a31-9333-c9d0174c9501
+  - content: >-
+      <div style="padding:62.5% 0 0 0;position:relative;"><iframe
+      src="https://player.vimeo.com/video/786580291?h=ff56d0d8ea&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+      frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+      allowfullscreen
+      style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Test
+      and innovate (4 mins)"></iframe></div><script
+      src="https://player.vimeo.com/api/player.js"></script>
+
+
+      Test your log with a real transaction and innovate with Grindery. Explore
+      different ideas to improve the wallet accounting system (e.g. add
+      notifications).
+
+      DISCLAIMER: You need a paid version of Zapier to publish your multi-step
+      Zap.
+
+
+      Go to the previous video: www.bit.ly/wallet_7
+
+      Get into Zapier: https://bit.ly/Grindery_et_Zapier
+
+      Get support on Discord: https://discord.gg/vueMMKeC9g
+
+      Visit our website: https://www.grindery.io/
+    name: Test and innovate (4 mins)
+    stepItems: []
+    uuid: a716e807-0dcf-4f75-8509-bf79a3f41d22
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
 uuid: create-a-wallet-log-grindery
