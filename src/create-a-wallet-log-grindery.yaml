@@ -1,11 +1,11 @@
 categories: []
-content: New Guide
-created: '2023-03-28T15:48:57.487Z'
+content: Create an automated wallet transaction log
+created: '2023-03-28T15:52:54.907Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: course
 key: create-a-wallet-log-grindery
-name: Create a Wallet Log
+name: Create an automated wallet log
 publishStatus: Live
 showIncorrectOnCompletion: true
 steps:
@@ -15,9 +15,9 @@ steps:
       frameborder='0'
       style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div> 
               
-    name: Introduction
+    name: Watch the eight lecture videos
     stepItems:
-      - label: Full Name
+      - label: Gindery Academy
         required: false
         type: PublicShortInput
         uuid: 4a0046f7-a5ad-49b4-bdb9-149794796c34
@@ -48,4 +48,4 @@ steps:
     uuid: 211893a5-c928-468c-8c48-a09dafba285a
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: d7de32c6-5ea5-4b59-a057-8738b51bbfcf
+uuid: create-a-wallet-log-grindery
