@@ -1,6 +1,6 @@
 categories: []
 content: Create an automated wallet transaction log
-created: '2023-03-28T15:54:28.845Z'
+created: '2023-03-28T16:04:01.584Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: course
@@ -28,30 +28,59 @@ steps:
         type: PublicShortInput
         uuid: 4a0046f7-a5ad-49b4-bdb9-149794796c34
     uuid: 20bb0b58-89e6-4c0d-8ad4-ce6b7e33e248
-  - content: ''
-    name: Introduction Evaluation
-    stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: 887b45b9-33ec-4399-9aa7-a515432072bc
-      - answerKeys:
-          - dog_or_cat
-          - only_dog
-          - only_cat
-        choices:
-          - content: Dog And Cat
-            key: dog_and_cat
-          - content: Dog Or Cat
-            key: dog_or_cat
-          - content: Only Dog
-            key: only_dog
-          - content: Only Cat
-            key: only_cat
-        content: Dog or a Cat, Do or a Cat, Dog or a Cat
-        type: MultipleChoice
-        uuid: e98bba94-aa51-4a03-a188-27848896c8be
-    uuid: 211893a5-c928-468c-8c48-a09dafba285a
+  - content: >-
+      <div style="padding:56.25% 0 0 0;position:relative;"><iframe
+      src="https://player.vimeo.com/video/781237763?h=307e871907&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+      frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+      allowfullscreen
+      style="position:absolute;top:0;left:0;width:100%;height:100%;"
+      title="What&amp;#039;s in it for you? (2 mins)"></iframe></div><script
+      src="https://player.vimeo.com/api/player.js"></script>
+    name: What's in it for you?
+    stepItems: []
+    uuid: 8bd4becd-2b97-4739-a7a8-6ebf489a999f
+  - content: >-
+      <div style="padding:56.09% 0 0 0;position:relative;"><iframe
+      src="https://player.vimeo.com/video/786580395?h=e5a2c66c2b&badge=0&autopause=0&player_id=0&app_id=58479/embed"
+      allow="autoplay; fullscreen; picture-in-picture" allowfullscreen
+      frameborder="0"
+      style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
+    name: Introduction to the course
+    stepItems: []
+    uuid: abf39d32-d7b7-4d44-a836-4450f080da2b
+  - content: >-
+      <div style="padding:55.78% 0 0 0;position:relative;"><iframe
+      src="https://player.vimeo.com/video/786580378?h=03e773f184&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+      frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+      allowfullscreen
+      style="position:absolute;top:0;left:0;width:100%;height:100%;"
+      title="Detect a native token  (6 mins)"></iframe></div><script
+      src="https://player.vimeo.com/api/player.js"></script>
+
+
+      Learn how to detect a deposit of a native token on a single chain.
+
+      a) Set up a Trigger - Grindery Web3 Gateway > Wallet (EOA) on EVM Chains
+
+      b)  Create an Action - Google Sheets
+
+
+      Watch the next video: www.bit.ly/wallet_5
+
+      Watch the previous video: www.bit.ly/wallet_3
+
+      See how to add date to your wallet log: https://bit.ly/add_date
+
+      Copy the help doc and template: www.bit.ly/wallet_log_template
+
+      Get into Zapier: https://bit.ly/Grindery_et_Zapier
+
+      Get support on Discord: https://discord.gg/vueMMKeC9g
+
+      Visit our website: https://www.grindery.io/
+    name: Detect a native token (6 mins)
+    stepItems: []
+    uuid: f86bf342-4fb1-44ff-8587-87c945d5960e
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
 uuid: create-a-wallet-log-grindery
