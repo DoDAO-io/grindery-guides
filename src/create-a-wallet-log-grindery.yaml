@@ -1,6 +1,6 @@
 categories: []
 content: Create an automated wallet transaction log
-created: '2023-03-28T16:11:04.193Z'
+created: '2023-03-28T16:13:16.024Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: course
@@ -32,6 +32,22 @@ steps:
       style="position:absolute;top:0;left:0;width:100%;height:100%;"
       title="What&amp;#039;s in it for you? (2 mins)"></iframe></div><script
       src="https://player.vimeo.com/api/player.js"></script>
+
+
+
+      Get a high-level overview of Grindery Gateway, including how this course
+      will help you.
+
+
+      Watch the next video: www.bit.ly/wallet_3
+
+      Watch the previous video: www.bit.ly/wallet_1
+
+      Copy the help doc and template: www.bit.ly/wallet_log_template
+
+      Get support on Discord: https://discord.gg/vueMMKeC9g
+
+      Visit our website: https://www.grindery.io/
     name: What's in it for you?
     stepItems: []
     uuid: 8bd4becd-2b97-4739-a7a8-6ebf489a999f
@@ -41,6 +57,24 @@ steps:
       allow="autoplay; fullscreen; picture-in-picture" allowfullscreen
       frameborder="0"
       style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
+
+
+      Get an overview of the wallet transaction log tutorial.
+
+
+      Watch the next video: www.bit.ly/wallet_4
+
+      Watch the previous video: www.bit.ly/wallet_2
+
+      Copy the help doc and template: www.bit.ly/wallet_log_template
+
+      Create a Wallet account: https://metamask.io/
+
+      Get into Zapier: https://bit.ly/Grindery_et_Zapier
+
+      Get support on Discord: https://discord.gg/vueMMKeC9g
+
+      Visit our website: https://www.grindery.io/
     name: Introduction to the course
     stepItems: []
     uuid: abf39d32-d7b7-4d44-a836-4450f080da2b
@@ -74,7 +108,7 @@ steps:
       Get support on Discord: https://discord.gg/vueMMKeC9g
 
       Visit our website: https://www.grindery.io/
-    name: Detect a native token (6 mins)
+    name: Detect a native token
     stepItems: []
     uuid: f86bf342-4fb1-44ff-8587-87c945d5960e
   - content: >-
@@ -146,7 +180,7 @@ steps:
       Get support on Discord: https://discord.gg/vueMMKeC9g
 
       Visit our website: https://www.grindery.io/
-    name: Extend to any EVM Chain (7 mins)
+    name: Extend to any EVM Chain
     stepItems: []
     uuid: d497a6ef-ba58-4c8d-b944-be0fa89810aa
   - content: >-
@@ -183,7 +217,7 @@ steps:
       Get support on Discord: discord.gg/vueMMKeC9g
 
       Visit our website: https://www.grindery.io/
-    name: Detect any ERC-20 token (9 mins)
+    name: Detect any ERC-20 token
     stepItems: []
     uuid: 49cada83-939c-4a31-9333-c9d0174c9501
   - content: >-
@@ -211,7 +245,7 @@ steps:
       Get support on Discord: https://discord.gg/vueMMKeC9g
 
       Visit our website: https://www.grindery.io/
-    name: Test and innovate (4 mins)
+    name: Test and innovate
     stepItems: []
     uuid: a716e807-0dcf-4f75-8509-bf79a3f41d22
 thumbnail: >-

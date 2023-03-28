@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Create an automated wallet transaction log",
-  "created": "2023-03-28T16:11:04.193Z",
+  "created": "2023-03-28T16:13:16.024Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -18,20 +18,20 @@
       "uuid": "20bb0b58-89e6-4c0d-8ad4-ce6b7e33e248"
     },
     {
-      "content": "<div style=\"padding:56.25% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/781237763?h=307e871907&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"What&amp;#039;s in it for you? (2 mins)\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>",
+      "content": "<div style=\"padding:56.25% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/781237763?h=307e871907&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"What&amp;#039;s in it for you? (2 mins)\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n\n\nGet a high-level overview of Grindery Gateway, including how this course will help you.\n\nWatch the next video: www.bit.ly/wallet_3\nWatch the previous video: www.bit.ly/wallet_1\nCopy the help doc and template: www.bit.ly/wallet_log_template\nGet support on Discord: https://discord.gg/vueMMKeC9g\nVisit our website: https://www.grindery.io/",
       "name": "What's in it for you?",
       "stepItems": [],
       "uuid": "8bd4becd-2b97-4739-a7a8-6ebf489a999f"
     },
     {
-      "content": "<div style=\"padding:56.09% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/786580395?h=e5a2c66c2b&badge=0&autopause=0&player_id=0&app_id=58479/embed\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen frameborder=\"0\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\"></iframe></div>",
+      "content": "<div style=\"padding:56.09% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/786580395?h=e5a2c66c2b&badge=0&autopause=0&player_id=0&app_id=58479/embed\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen frameborder=\"0\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\"></iframe></div>\n\nGet an overview of the wallet transaction log tutorial.\n\nWatch the next video: www.bit.ly/wallet_4\nWatch the previous video: www.bit.ly/wallet_2\nCopy the help doc and template: www.bit.ly/wallet_log_template\nCreate a Wallet account: https://metamask.io/\nGet into Zapier: https://bit.ly/Grindery_et_Zapier\nGet support on Discord: https://discord.gg/vueMMKeC9g\nVisit our website: https://www.grindery.io/",
       "name": "Introduction to the course",
       "stepItems": [],
       "uuid": "abf39d32-d7b7-4d44-a836-4450f080da2b"
     },
     {
       "content": "<div style=\"padding:55.78% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/786580378?h=03e773f184&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"Detect a native token  (6 mins)\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n\nLearn how to detect a deposit of a native token on a single chain.\na) Set up a Trigger - Grindery Web3 Gateway > Wallet (EOA) on EVM Chains\nb)  Create an Action - Google Sheets\n\nWatch the next video: www.bit.ly/wallet_5\nWatch the previous video: www.bit.ly/wallet_3\nSee how to add date to your wallet log: https://bit.ly/add_date\nCopy the help doc and template: www.bit.ly/wallet_log_template\nGet into Zapier: https://bit.ly/Grindery_et_Zapier\nGet support on Discord: https://discord.gg/vueMMKeC9g\nVisit our website: https://www.grindery.io/",
-      "name": "Detect a native token (6 mins)",
+      "name": "Detect a native token",
       "stepItems": [],
       "uuid": "f86bf342-4fb1-44ff-8587-87c945d5960e"
     },
@@ -43,19 +43,19 @@
     },
     {
       "content": "<div style=\"padding:55.78% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/786580341?h=d52e78c58e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"Extend to any EVM chain (7 mins)\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n\nLearn how to detect the deposit of a native token on any of the supported chains.\na) Set up a Trigger - Grindery Web3 Gateway > Wallet (EOA) on EVM Chains (select All Supported Chain).\nb) Create an Action - Google Sheets\nc) Add another 'Google Sheets' Action between (a) & (b) to get Token Symbol and Chain Name from Sheets.\nd) Add an Action 'Formatter by Zapier' between (c) & (b) to do the conversion.\n\nWatch the next video: www.bit.ly/wallet_7\nWatch the previous video: www.bit.ly/wallet_5\nCopy the help doc and template: www.bit.ly/wallet_log_template\nGet into Zapier: https://bit.ly/Grindery_et_Zapier\nGet support on Discord: https://discord.gg/vueMMKeC9g\nVisit our website: https://www.grindery.io/",
-      "name": "Extend to any EVM Chain (7 mins)",
+      "name": "Extend to any EVM Chain",
       "stepItems": [],
       "uuid": "d497a6ef-ba58-4c8d-b944-be0fa89810aa"
     },
     {
       "content": "<div style=\"padding:55.78% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/786580314?h=d32156d716&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"Detect any ERC-20 token (9 mins)\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n\nLearn how to detect a transfer of an ERC-20 token on any of the supported chains.\na) Set up a Trigger - Grindery Web3 Gateway - Tokens on EVM Chains\nb) Create an Action - Google Sheets\nc) Add an Action between (a) & (b) - Grindery Web3 Gateway > Tokens on EVM Chains > Token Information\nd) Add another 'Google Sheets' Action between (c) & (b) to get the Chain Name from Sheets\ne) Add an Action 'Formatter by Zapier' between (d) & (b) to convert the amount from WEI to token currency.\n\nWatch the next video: www.bit.ly/wallet_8\nWatch the previous video: www.bit.ly/wallet_6\nGet support on Discord: discord.gg/vueMMKeC9g\nVisit our website: https://www.grindery.io/",
-      "name": "Detect any ERC-20 token (9 mins)",
+      "name": "Detect any ERC-20 token",
       "stepItems": [],
       "uuid": "49cada83-939c-4a31-9333-c9d0174c9501"
     },
     {
       "content": "<div style=\"padding:62.5% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/786580291?h=ff56d0d8ea&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"Test and innovate (4 mins)\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n\nTest your log with a real transaction and innovate with Grindery. Explore different ideas to improve the wallet accounting system (e.g. add notifications).\nDISCLAIMER: You need a paid version of Zapier to publish your multi-step Zap.\n\nGo to the previous video: www.bit.ly/wallet_7\nGet into Zapier: https://bit.ly/Grindery_et_Zapier\nGet support on Discord: https://discord.gg/vueMMKeC9g\nVisit our website: https://www.grindery.io/",
-      "name": "Test and innovate (4 mins)",
+      "name": "Test and innovate",
       "stepItems": [],
       "uuid": "a716e807-0dcf-4f75-8509-bf79a3f41d22"
     }
