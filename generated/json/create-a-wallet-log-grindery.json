@@ -1,7 +1,7 @@
 {
   "categories": [],
-  "content": "Create an automated wallet transaction log",
-  "created": "2023-03-28T16:13:16.024Z",
+  "content": "Automatically track your wallet transactions",
+  "created": "2023-03-28T16:18:35.195Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -60,6 +60,6 @@
       "uuid": "a716e807-0dcf-4f75-8509-bf79a3f41d22"
     }
   ],
-  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/grindery-eth-1/Guide/Create_an_automated_wallet_log/copy_of%20course%20introduction%20dodao.png",
   "uuid": "create-a-wallet-log-grindery"
 }
