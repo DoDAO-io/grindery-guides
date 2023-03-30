@@ -1,6 +1,6 @@
 categories: []
 content: Automatically track your wallet transactions
-created: '2023-03-28T16:26:35.305Z'
+created: '2023-03-30T12:01:46.053Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: course
@@ -19,8 +19,7 @@ steps:
 
 
       You can also visit our website - https://www.grindery.io/ to learn more
-      about us. To go back to the course page, click here:
-      https://www.grindery.io/wallet-course
+      about us.
     name: Housekeeping
     stepItems: []
     uuid: 20bb0b58-89e6-4c0d-8ad4-ce6b7e33e248
@@ -34,14 +33,13 @@ steps:
       src="https://player.vimeo.com/api/player.js"></script>
 
 
+      .
+
+
 
       Get a high-level overview of Grindery Gateway, including how this course
       will help you.
 
-
-      Watch the next video: www.bit.ly/wallet_3
-
-      Watch the previous video: www.bit.ly/wallet_1
 
       Copy the help doc and template: www.bit.ly/wallet_log_template
 
@@ -59,12 +57,11 @@ steps:
       style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
 
 
+      .
+
+
       Get an overview of the wallet transaction log tutorial.
 
-
-      Watch the next video: www.bit.ly/wallet_4
-
-      Watch the previous video: www.bit.ly/wallet_2
 
       Copy the help doc and template: www.bit.ly/wallet_log_template
 
@@ -88,7 +85,7 @@ steps:
       src="https://player.vimeo.com/api/player.js"></script>
 
 
-      a
+      .
 
 
 
@@ -98,10 +95,6 @@ steps:
 
       b)  Create an Action - Google Sheets
 
-
-      Watch the next video: www.bit.ly/wallet_5
-
-      Watch the previous video: www.bit.ly/wallet_3
 
       See how to add date to your wallet log: https://bit.ly/add_date
 
@@ -125,6 +118,10 @@ steps:
       src="https://player.vimeo.com/api/player.js"></script>
 
 
+      .
+
+
+
       Learn how to convert a deposit amount (in WEI) to your specific token
       currency.
 
@@ -133,10 +130,6 @@ steps:
 
       Note: You can get the decimals for conversion on Google
 
-
-      Watch the next video: www.bit.ly/wallet_6
-
-      Watch the previous video: www.bit.ly/wallet_4
 
       Copy the help doc and template: www.bit.ly/wallet_log_template
 
@@ -158,6 +151,10 @@ steps:
       src="https://player.vimeo.com/api/player.js"></script>
 
 
+      .
+
+
+
       Learn how to detect the deposit of a native token on any of the supported
       chains.
 
@@ -172,10 +169,6 @@ steps:
       d) Add an Action 'Formatter by Zapier' between (c) & (b) to do the
       conversion.
 
-
-      Watch the next video: www.bit.ly/wallet_7
-
-      Watch the previous video: www.bit.ly/wallet_5
 
       Copy the help doc and template: www.bit.ly/wallet_log_template
 
@@ -197,6 +190,10 @@ steps:
       src="https://player.vimeo.com/api/player.js"></script>
 
 
+      .
+
+
+
       Learn how to detect a transfer of an ERC-20 token on any of the supported
       chains.
 
@@ -214,10 +211,6 @@ steps:
       amount from WEI to token currency.
 
 
-      Watch the next video: www.bit.ly/wallet_8
-
-      Watch the previous video: www.bit.ly/wallet_6
-
       Get support on Discord: discord.gg/vueMMKeC9g
 
       Visit our website: https://www.grindery.io/
@@ -234,6 +227,9 @@ steps:
       src="https://player.vimeo.com/api/player.js"></script>
 
 
+      .
+
+
       Test your log with a real transaction and innovate with Grindery. Explore
       different ideas to improve the wallet accounting system (e.g. add
       notifications).
@@ -241,8 +237,6 @@ steps:
       DISCLAIMER: You need a paid version of Zapier to publish your multi-step
       Zap.
 
-
-      Go to the previous video: www.bit.ly/wallet_7
 
       Get into Zapier: https://bit.ly/Grindery_et_Zapier
 
